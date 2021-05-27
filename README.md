@@ -54,8 +54,8 @@ _Note that `admitted_by` is a foreign key to the employee table._
 
 1.  Create a route to get all doctors.
 2.  Create a route to get a doctor by `employee_id`.
-3.  Create a route to get doctors by status.
-4.  Create a route to get doctors by department.
+3.  Create a route to get doctors by `status`.
+4.  Create a route to get doctors by `department`.
 5.  Create a route to get all patients.
 6.  Create a route to get a patient by `patient_id`.
 7.  Create a route to get patients date of birth within a specified range.
